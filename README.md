@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Tobey 👋
 
-<!--
-**aliseblu/aliseblu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 正在学习 Web 开发与 AI
+- ✍️ 记录软件、工具与持续学习
+- 🌐 个人博客：https://aliseblu.cn
+- 🔭 正在构建：Aliseblu Blog
 
-Here are some ideas to get you started:
+## 🛠 技术栈
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Astro · TypeScript · Markdown · UnoCSS · Vercel
+
+## 🐍 我的贡献记录
+
+这里放 GitHub 贡献蛇动画
+
+## 📫 联系我
+
+- Blog: https://aliseblu.cn
+- GitHub: https://github.com/aliseblu
