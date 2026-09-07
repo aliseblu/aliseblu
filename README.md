@@ -15,7 +15,7 @@ Web 与 AI 学习者，正在把写代码、做项目和长期写作变成稳定
 ### 🌌 Featured · Aliseblu
 
 <a href="https://aliseblu.cn">
-  <img src="https://aliseblu.cn/og-default.png" width="720" alt="Aliseblu：写技术，也写思考。" />
+  <img src="./assets/aliseblu-preview.png" width="720" alt="Aliseblu 当前首页：银灰云层、头像导航与玻璃卡片" />
 </a>
 
 **写技术，也写思考。** 这是一个使用 Astro、Markdown 和 UnoCSS 构建的个人博客，包含实时天气、昼夜场景、交互式天空、中文全文搜索与内容归档。
